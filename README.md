@@ -4,7 +4,3 @@ Education: Medical technology engineer.
 Work experience: 4 years.
 I work as a medical equipment design engineer.
 ![фото чего-то](https://astrafarm.com/images/encyclopedia/ittenVes170221.jpg)
-
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates! 
